@@ -2,6 +2,7 @@
 
 Custom theme injector for ChatGPT.
 Removes gradients and allows custom background colors.
+100% vibe coded
 
 ## Features
 - No gradients (forced .dark bg fix)
