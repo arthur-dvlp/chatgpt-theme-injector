@@ -17,4 +17,6 @@ Removes gradients and allows custom background colors.<br/>
 5. Select the project folder
 
 ## License
-MIT
+MIT<br/>
+## [Download](https://github.com/arthur-dvlp/chatgpt-theme-injector/archive/refs/heads/main.zip)
+
